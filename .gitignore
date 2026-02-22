@@ -1,0 +1,15 @@
+# R
+.Rhistory
+.RData
+.Ruserdata
+*.Rproj.user/
+*.Rproj
+
+# Datos pesados (GitHub limita a 100 MB por archivo)
+02_datos/lesionados_bogota.csv
+02_datos/Velocidades_Bitcarrier*.csv
+
+# Sistema
+.DS_Store
+Thumbs.db
+*.log
